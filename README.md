@@ -1,10 +1,14 @@
 <div align="center">
 
+<img src="./assets/banner.gif" width="100%" />
+
+<br><br>
+
 # d1shburn
 
-**UNITY DEVELOPER · C# · GAME ARCHITECTURE**
+### `UNITY DEVELOPER · C# · GAME ARCHITECTURE`
 
-*Building modular systems, reusable architecture and developer tools for Unity.*
+*Building modular systems, reusable architecture and developer tools.*
 
 <br>
 
@@ -13,91 +17,66 @@
 <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ARCH_LINUX-111111?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
 <img src="https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
----
+<br>
 
-## `01` — Expertise
+```csharp
+public sealed class Developer
+{
+    public string Name => "d1shburn";
+    public string Role => "Unity Developer";
+    public string Language => "C#";
 
-| **GAME ARCHITECTURE** | **REUSABLE SYSTEMS** |
-|:---|:---|
-| Modular & scalable design | Clean, reusable components |
-| Clear responsibilities | Extensible APIs |
+    public string[] Focus =>
+    [
+        "Game Architecture",
+        "Reusable Systems",
+        "Performance"
+    ];
 
-| **PERFORMANCE** | **DEVELOPER EXPERIENCE** |
-|:---|:---|
-| Efficient runtime solutions | Simple integration |
-| Performance-focused systems | Clean workflows |
-
----
-
-## `02` — Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Object Pool
-
-High-performance object pooling system for Unity.
-
-**Features**
-- Dependency Injection
-- Generic architecture
-- Supports all prefab types
-- Performance-focused
-- Reusable & extensible API
-
-**[→ View repository](https://github.com/d1shburn/Unity-Object-Pool)**
-
-</td>
-<td width="50%" valign="top">
-
-### 💭 Dialogue System
-
-Modular dialogue framework for RPGs and visual novels.
-
-**Features**
-- Modular architecture
-- Dialogue branching
-- Reusable components
-- Easy integration
-- Designed for extensibility
-
-**[→ View repository](https://github.com/d1shburn/Unity-Dialogue-System)**
-
-</td>
-</tr>
-</table>
-
----
-
-## `03` — Philosophy
-
-<div align="center">
-
-### **“Build systems, not features.”**
-
-*Simple interfaces · Clear responsibilities · Reusable architecture*
-
-</div>
-
----
-
-## `04` — Contact
-
-**GitHub**  
-[github.com/d1shburn](https://github.com/d1shburn)
-
-**Telegram**  
-[t.me/d1shburn](https://t.me/d1shburn)
+    public string[] Environment =>
+    [
+        "Arch Linux",
+        "Hyprland"
+    ];
+}
+```
 
 <br>
 
 <div align="center">
 
-<sub>Building systems for games. One reusable component at a time.</sub>
+## `// GitHub`
+
+<a href="https://github.com/d1shburn">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=d1shburn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=1793D1&ring_color=1793D1" />
+</a>
+<a href="https://github.com/d1shburn">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1shburn&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=d1shburn&bg_color=0d1117&color=8b949e&line=1793D1&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Build systems, not features.**
+
+<br>
+
+<a href="https://github.com/d1shburn">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://t.me/d1shburn">Telegram</a>
+
+<br><br>
+
+<sub>Built with C# · Powered by Arch Linux · btw</sub>
 
 </div>
