@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" />
+<img src="./assets/banner.gif" width="100%" height="330" style="object-fit: cover;" />
 
 <br><br>
 
 # d1shburn
+
+Unity developer focused on building modular game systems, reusable architecture, and clean, performance-oriented tools.
 
 <br>
 
