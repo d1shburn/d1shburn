@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lyNTR3eXdjYjYxMmFiMmIybWJwNmYxZmw2azg4Z3Bmc2N2bHo3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K0JrA2VbkFy2A/giphy.gif" width="100%" />
 
 <br><br>
 
 # d1shburn
 
-### `UNITY DEVELOPER · C# · GAME ARCHITECTURE`
+**UNITY DEVELOPER · C# · GAME ARCHITECTURE**
 
 *Building modular systems, reusable architecture and developer tools.*
 
@@ -44,39 +44,33 @@ public sealed class Developer
 }
 ```
 
-<br>
-
 <div align="center">
 
-## `// GitHub`
-
-<a href="https://github.com/d1shburn">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=d1shburn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=1793D1&ring_color=1793D1" />
-</a>
-<a href="https://github.com/d1shburn">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1shburn&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=d1shburn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=1793D1" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1shburn&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="165" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=d1shburn&bg_color=0d1117&color=8b949e&line=1793D1&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=d1shburn&hide_border=true&background=0d1117&ring=1793D1&fire=1793D1&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165" />
 
-</div>
+<br><br>
 
-<br>
+<a href="https://github.com/d1shburn">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d1shburn&bg_color=0d1117&color=8b949e&line=1793D1&point=ffffff&area=true&hide_border=true" width="95%" />
+</a>
 
-<div align="center">
+<br><br>
 
 > **Build systems, not features.**
 
 <br>
 
-<a href="https://github.com/d1shburn">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://t.me/d1shburn">Telegram</a>
+<a href="https://github.com/d1shburn">GITHUB</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://t.me/d1shburn">TELEGRAM</a>
 
 <br><br>
 
-<sub>Built with C# · Powered by Arch Linux · btw</sub>
+<sub>ARCH LINUX · btw</sub>
 
 </div>
